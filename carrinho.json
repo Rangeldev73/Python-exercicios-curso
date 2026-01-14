@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "carro",
+        "preco": 15000.0
+    },
+    {
+        "nome": "tenis",
+        "preco": 200.0
+    },
+    {
+        "nome": "carrinhohotwheels",
+        "preco": 20.0
+    }
+]
