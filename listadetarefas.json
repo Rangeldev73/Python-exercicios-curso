@@ -1,0 +1,10 @@
+[
+    {
+        "descr": "estudar",
+        "status": false
+    },
+    {
+        "descr": "lavar louça",
+        "status": true
+    }
+]
